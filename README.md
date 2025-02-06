@@ -2,9 +2,9 @@
   Hi There 👋
 </h2>
 
-<h4 align="center">
-  <strong>About Me</strong>
-</h4>
+<h1 align="center">
+  <strong>💫 About Me</strong>
+</h1>
 
 <p align="center">
   👋 My name is <strong>Jugendra Kashyap</strong> and I am a student passionate about coding.<br>
@@ -13,9 +13,9 @@
   👨‍💻 Always thinking about new projects
 </p>
 
-<p align="center">
-  <strong>Made Used Languages</strong>
-</p>
+<h1 align="center">
+  <strong>🛠 Skills</strong>
+</h1>
 
 <p align="center">
   - <strong>B</strong>
