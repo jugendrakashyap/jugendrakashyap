@@ -1,13 +1,29 @@
-# Hi There 👋
+<p align="center">
+  Hi There 👋
+</p>
 
-## About Me
+<p align="center">
+  <strong>About Me</strong>
+</p>
 
-My name is **Jugendra Kashyap** and I am a student passionate about coding. I love programming, technology, and innovation. I aspire to become a Fullstack Developer and enjoy expanding my knowledge in the field.
+<p align="center">
+  My name is <strong>Jugendra Kashyap</strong> and I am a student passionate about coding. I love programming, technology, and innovation. I aspire to become a software engineer and enjoy expanding my knowledge in the field.
+</p>
 
-## Made Used Languages
+<p align="center">
+  <strong>Made Used Languages</strong>
+</p>
 
-- **B**
+<p align="center">
+  - <strong>B</strong>
+</p>
 
-## Random Dev Quote
+<p align="center">
+  <strong>Random Dev Quote</strong>
+</p>
 
-> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+<p align="center">
+  <blockquote align="center">
+    "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+  </blockquote>
+</p>
