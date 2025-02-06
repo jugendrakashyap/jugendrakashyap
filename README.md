@@ -1,13 +1,16 @@
-<p align="center">
+<h2 align="center">
   Hi There 👋
-</p>
+</h2>
 
-<p align="center">
+<h4 align="center">
   <strong>About Me</strong>
-</p>
+</h4>
 
 <p align="center">
-  My name is <strong>Jugendra Kashyap</strong> and I am a student passionate about coding. I love programming, technology, and innovation. I aspire to become a software engineer and enjoy expanding my knowledge in the field.
+  👋 My name is <strong>Jugendra Kashyap</strong> and I am a student passionate about coding.<br>
+  😍 I love programming, technology, and innovation.<br>
+  📖 I aspire to become a <strong>Fullstack Developer</strong> and enjoy expanding my knowledge.<br>
+  👨‍💻 Always thinking about new projects
 </p>
 
 <p align="center">
