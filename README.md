@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi There 👋
 
-<!--
-**jugendrakashyap/jugendrakashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+My name is **Jugendra Kashyap** and I am a student passionate about coding. I love programming, technology, and innovation. I aspire to become a Fullstack Developer and enjoy expanding my knowledge in the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Made Used Languages
+
+- **B**
+
+## Random Dev Quote
+
+> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
