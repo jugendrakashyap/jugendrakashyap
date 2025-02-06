@@ -2,7 +2,7 @@
   Hi There 👋
 </h2>
 
-<p align="center" style="font-size: 1.5em">
+<p align="center" style="font-size: 50px;">
   <strong>💫 About Me</strong>
 </p>
 
