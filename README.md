@@ -2,9 +2,9 @@
   Hi There 👋
 </h2>
 
-<h1 align="center">
+<p align="center" style="font-size: 20px">
   <strong>💫 About Me</strong>
-</h1>
+</p>
 
 <p align="center">
   👋 My name is <strong>Jugendra Kashyap</strong> and I am a student passionate about coding.<br>
