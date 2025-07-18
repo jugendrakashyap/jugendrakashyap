@@ -7,9 +7,9 @@ I'm a passionate **Computer Science Engineering** student with interests in **fu
 ### 🚀 About Me
 - 🎓 1st-year B.Tech CSE student
 - 💡 Exploring MERN stack and building real-world projects
-- 🛠️ Currently working on: `digiLibrary` – an eBook management platform
-- 🌱 Learning: React.js, Node.js, MongoDB, and Tailwind CSS
-- 🧠 Interested in web apps, productivity tools, and DevOps
+- 🛠️ Currently working on: `DigiLibrary` – an eBook management platform
+- 🌱 Learning: Java, DBMS, React native and Tailwind CSS
+- 🧠 Interested in mobile & web apps, productivity tools
 
 ---
 
