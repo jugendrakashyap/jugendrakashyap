@@ -1,4 +1,4 @@
-### 👋 Hi there, `I'm Jugendra Kashyap`
+### 👋 Hi there, I'm `Jugendra Kashyap`
 
 I'm a passionate **Computer Science Engineering** student with interests in **full-stack development**, **open source**, and building useful tech products that solve real-world problems.
 
@@ -40,9 +40,8 @@ I'm a passionate **Computer Science Engineering** student with interests in **fu
 ---
 
 ### 📫 Connect with Me
-- 🌐 [Portfolio (if you have one)]()
-- 📧 jugendra.kashyap@example.com *(replace with your actual email)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/jugendra-kashyap/)
+- 🌐 [Portfolio](jugendrakashyap.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jugendrakashyap/)
 
 ---
 
