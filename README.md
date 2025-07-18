@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Jugendra Kashyap
+### 👋 Hi there, `I'm Jugendra Kashyap`
 
 I'm a passionate **Computer Science Engineering** student with interests in **full-stack development**, **open source**, and building useful tech products that solve real-world problems.
 
