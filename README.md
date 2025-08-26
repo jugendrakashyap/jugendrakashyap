@@ -40,7 +40,7 @@ I'm a passionate **Computer Science Engineering** student with interests in **fu
 ---
 
 ### 📫 Connect with Me
-- 🌐 [Portfolio](jugendrakashyap.com)
+- 🌐 [Portfolio](https://jugendrakashyap.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jugendrakashyap/)
 
 ---
